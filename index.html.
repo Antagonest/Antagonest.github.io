@@ -1,2 +1,70 @@
 # Antagonest.github.io
 Project Website
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    
+    <style>
+    #content {color: rgb(91, 5, 156) ; }
+        
+        .strokeme {
+  color: white;
+  background-color: skyblue ;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 30px; 
+}
+
+body {background-color: rgb(219, 123, 219) ; 
+    
+}
+     #bleach {color: red ;
+     text-decoration: underline red;
+     }
+     #bleachtag { font-size:25px; }
+     
+     #hunter {color: red;
+     text-decoration:underline red;
+     }
+     #huntertext { font-size:25px; }
+
+    </style>
+    <body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Search_box_vector.PNG">
+    
+    <h2 id="content">Contents:</h2>
+    <p> <a href="#bleach">Number 10 </a> </p>
+    <p> <a href="#hunter"> Number 9 </a> </p>
+        ________________________________________________________
+        <div class="strokeme">
+  Welcome to Buggy D. GOAT's  <br> List:
+  
+  <h2>Top 10 Anime List</h2>
+  
+  <h4>Number 10</h4>
+  
+  <h6 id="bleach">Bleach </h6>
+   <img src="https://upload.wikimedia.org/wikipedia/en/7/72/Bleachanime.png?20190515000401" width="180"> 
+   <p id="bleachtag">What's so special about the hit Series Bleach? </p>
+   <div id="video-container"> 
+   <video preload="auto" autoplay="autoplay" type="video/mp4" src="background.mp4" loop> </video>
+   <div class="contents"> </div>
+   <h1>Vid Test</h1>
+    <p> Dummy Text </p>   
+       
+   </div>
+   
+</div>
+<section> </section>
+ <h4>Number 9 </h4>
+       
+       <h6 id="hunter">Hunter X Hunter</h6>
+       
+       <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/H%C3%97H_2011_Box_Set.png" width="240" >
+       <p id="huntertext"> Hunter X Hunter </p>
+    </body>
+</html>
